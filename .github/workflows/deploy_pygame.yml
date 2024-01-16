@@ -1,4 +1,4 @@
-name: Build Space Invaders with Pygbag
+name: Build Space Invaders with Pygbag clone
 on:
   push:
     branches:
